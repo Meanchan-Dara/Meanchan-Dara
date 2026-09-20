@@ -96,27 +96,19 @@ const chandara = {
 
 <br/>
 
-<!-- ================= STATS ================= -->
-## 📊 GitHub Stats
+<!-- ================= ANALYTICS ================= -->
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Meanchan-Dara&show_icons=true&hide_border=false&bg_color=ecfdf5&title_color=059669&text_color=065f46&icon_color=10b981&border_color=a7f3d0&ring_color=10b981&count_private=true" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meanchan-Dara&layout=compact&langs_count=8&bg_color=ecfdf5&title_color=059669&text_color=065f46&border_color=a7f3d0" alt="top languages" />
+<img src="https://raw.githubusercontent.com/Meanchan-Dara/Meanchan-Dara/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" width="100%" />
 
-<br/>
+<img src="https://raw.githubusercontent.com/Meanchan-Dara/Meanchan-Dara/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top languages by repo" width="49%" />
+<img src="https://raw.githubusercontent.com/Meanchan-Dara/Meanchan-Dara/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Commits by time" width="49%" />
 
-<img src="https://streak-stats.demolab.com/?user=Meanchan-Dara&background=ECFDF5&border=A7F3D0&stroke=A7F3D0&ring=10B981&fire=059669&currStreakNum=065F46&currStreakLabel=059669&sideNums=065F46&sideLabels=059669&dates=34D399" alt="streak" />
+<img src="https://raw.githubusercontent.com/Meanchan-Dara/Meanchan-Dara/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" width="49%" />
+<img src="https://raw.githubusercontent.com/Meanchan-Dara/Meanchan-Dara/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top languages by commit" width="49%" />
 
-</div>
-
-<br/>
-
-<!-- ================= ACTIVITY GRAPH ================= -->
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/10b981/Meanchan-Dara" alt="Contribution chart" width="95%" />
 </div>
 
 <br/>
