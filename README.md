@@ -116,16 +116,7 @@ const chandara = {
 ## 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Meanchan-Dara&bg_color=ecfdf5&color=059669&line=10b981&point=065f46&area=true&area_color=6ee7b7&hide_border=true&custom_title=Contribution%20Graph" alt="activity graph" width="95%" />
-</div>
-
-<br/>
-
-<!-- ================= TROPHIES ================= -->
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Meanchan-Dara&theme=flat&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies" />
+  <img src="https://ghchart.rshah.org/10b981/Meanchan-Dara" alt="Contribution chart" width="95%" />
 </div>
 
 <br/>
