@@ -1,30 +1,22 @@
-name: Generate Snake Animation
+name: GitHub-Profile-Summary-Cards
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-permissions:
-  contents: write
+    - cron: "0 0 * * *"   # runs once every day
+  workflow_dispatch:       # allows manual run
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+    permissions:
+      contents: write
     steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: Meanchan-Dara
-          outputs: |
-            dist/github-snake.svg?palette=github-light&color_snake=#059669&color_dots=#ecfdf5,#a7f3d0,#6ee7b7,#34d399,#10b981
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#34d399
-
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
+          UTC_OFFSET: 7    # Cambodia time (UTC+7)
