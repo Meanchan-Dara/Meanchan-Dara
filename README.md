@@ -1,11 +1,10 @@
-# Mean-Chandara-GitHub-Profile
 <div align="center">
   
-  # < REACH /> I'm Vorng Sovannreach
+  # < DARA /> I'm Meanchan Dara
   
-  **Full-Stack Developer · Turning caffeine into code since 2024**
+  **Frontend Developer · Turning caffeine into code since 2024**
   
-  Flutter mobile apps 📱
+  Angular & Web Development 💻
   
   <br/>
 </div>
@@ -14,19 +13,18 @@
 
 ```json
 {
-  "name": "Vorng Sovannreach",
+  "name": "Meanchan Dara",
   "location": "Phnom Penh, Cambodia 🇰🇭",
-  "role": "Full-Stack Developer",
+  "role": "Frontend Developer",
   "stack": {
-    "languages": ["JavaScript", "Python", "PHP", "Dart", "Java", "C#"],
-    "frontend": ["React", "Vue.js", "Angular", "Flutter"],
-    "backend": ["Node.js", "Laravel", "Django", "FastAPI", "Express"],
-    "databases": ["MySQL", "MongoDB", "PostgreSQL", "SQLite", "Supabase"],
-    "design": ["Figma", "Adobe XD", "Photoshop", "Illustrator"]
+    "languages": ["JavaScript", "TypeScript", "HTML", "CSS"],
+    "frontend": ["Angular", "React", "Vue.js"],
+    "backend": ["Node.js", "Express"],
+    "databases": ["MySQL", "MongoDB"]
   },
   "currently": {
-    "building": "[Your Current Project]",
-    "learning": "[e.g. DevOps / Cloud / AI]",
+    "building": "Angular Midterm Project 🚀",
+    "learning": "Advanced Frontend Architecture",
     "available": "true # open to collaborate"
   }
 }
@@ -36,4 +34,4 @@
 [<img src="https://shields.io" />](mailto:your-email@gmail.com)
 
 ### Tech Stack:
-<!-- កន្លែងដាក់រូប Icon ជំនាញផ្សេងៗរបស់អ្នក -->
+<!-- កន្លែងសម្រាប់ដាក់រូប Icon ជំនាញបន្ថែម -->
