@@ -1,9 +1,9 @@
 <!-- ============================================================
   HOW TO USE
-  1. Replace every  YOUR_USERNAME  with your GitHub username
+  1. Replace every  Meanchan-Dara  with your GitHub username
   2. Replace the contact links (Telegram, LinkedIn, Email, ...)
   3. Replace the project links
-  4. Save this file as README.md in the repo named YOUR_USERNAME/YOUR_USERNAME
+  4. Save this file as README.md in the repo named Meanchan-Dara/Meanchan-Dara
 ============================================================= -->
 
 <!-- ================= HEADER ================= -->
@@ -17,9 +17,9 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=10b981&style=for-the-badge" alt="views" />
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=34d399&labelColor=064e3b" alt="followers" />
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=for-the-badge&color=6ee7b7&labelColor=064e3b" alt="stars" />
+<img src="https://komarev.com/ghpvc/?username=Meanchan-Dara&label=Profile+Views&color=10b981&style=for-the-badge" alt="views" />
+<img src="https://img.shields.io/github/followers/Meanchan-Dara?label=Followers&style=for-the-badge&color=34d399&labelColor=064e3b" alt="followers" />
+<img src="https://img.shields.io/github/stars/Meanchan-Dara?label=Stars&style=for-the-badge&color=6ee7b7&labelColor=064e3b" alt="stars" />
 
 </div>
 
@@ -79,7 +79,7 @@ const chandara = {
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
       </p>
-      <a href="https://github.com/YOUR_USERNAME/YOUR_REPO_1">🔗 View Project</a>
+      <a href="https://github.com/Meanchan-Dara/YOUR_REPO_1">🔗 View Project</a>
     </td>
     <td width="50%" valign="top">
       <h3>📍 Room Digital Finder</h3>
@@ -89,7 +89,7 @@ const chandara = {
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
       </p>
-      <a href="https://github.com/YOUR_USERNAME/YOUR_REPO_2">🔗 View Project</a>
+      <a href="https://github.com/Meanchan-Dara/YOUR_REPO_2">🔗 View Project</a>
     </td>
   </tr>
 </table>
@@ -101,12 +101,12 @@ const chandara = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=false&bg_color=ecfdf5&title_color=059669&text_color=065f46&icon_color=10b981&border_color=a7f3d0&ring_color=10b981&count_private=true" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&bg_color=ecfdf5&title_color=059669&text_color=065f46&border_color=a7f3d0" alt="top languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Meanchan-Dara&show_icons=true&hide_border=false&bg_color=ecfdf5&title_color=059669&text_color=065f46&icon_color=10b981&border_color=a7f3d0&ring_color=10b981&count_private=true" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meanchan-Dara&layout=compact&langs_count=8&bg_color=ecfdf5&title_color=059669&text_color=065f46&border_color=a7f3d0" alt="top languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&background=ECFDF5&border=A7F3D0&stroke=A7F3D0&ring=10B981&fire=059669&currStreakNum=065F46&currStreakLabel=059669&sideNums=065F46&sideLabels=059669&dates=34D399" alt="streak" />
+<img src="https://streak-stats.demolab.com/?user=Meanchan-Dara&background=ECFDF5&border=A7F3D0&stroke=A7F3D0&ring=10B981&fire=059669&currStreakNum=065F46&currStreakLabel=059669&sideNums=065F46&sideLabels=059669&dates=34D399" alt="streak" />
 
 </div>
 
@@ -116,7 +116,7 @@ const chandara = {
 ## 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=ecfdf5&color=059669&line=10b981&point=065f46&area=true&area_color=6ee7b7&hide_border=true&custom_title=Contribution%20Graph" alt="activity graph" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Meanchan-Dara&bg_color=ecfdf5&color=059669&line=10b981&point=065f46&area=true&area_color=6ee7b7&hide_border=true&custom_title=Contribution%20Graph" alt="activity graph" width="95%" />
 </div>
 
 <br/>
@@ -125,7 +125,7 @@ const chandara = {
 ## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=flat&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Meanchan-Dara&theme=flat&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies" />
 </div>
 
 <br/>
@@ -135,9 +135,9 @@ const chandara = {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Meanchan-Dara/Meanchan-Dara/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Meanchan-Dara/Meanchan-Dara/output/github-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/Meanchan-Dara/Meanchan-Dara/output/github-snake.svg" />
   </picture>
 </div>
 
